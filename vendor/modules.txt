@@ -1,3 +1,29 @@
+# github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+## explicit
+# github.com/golang/protobuf v1.5.2
+## explicit; go 1.9
+# github.com/googleapis/gax-go/v2 v2.7.0
+## explicit; go 1.19
 # github.com/jackpal/bencode-go v1.0.0
 ## explicit
 github.com/jackpal/bencode-go
+# go.opencensus.io v0.24.0
+## explicit; go 1.13
+# gocloud.dev v0.28.0
+## explicit; go 1.12
+# golang.org/x/net v0.4.0
+## explicit; go 1.17
+# golang.org/x/sys v0.3.0
+## explicit; go 1.17
+# golang.org/x/text v0.5.0
+## explicit; go 1.17
+# golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
+## explicit; go 1.17
+# google.golang.org/api v0.103.0
+## explicit; go 1.19
+# google.golang.org/genproto v0.0.0-20221201204527-e3fa12d562f3
+## explicit; go 1.19
+# google.golang.org/grpc v1.51.0
+## explicit; go 1.17
+# google.golang.org/protobuf v1.28.1
+## explicit; go 1.11
